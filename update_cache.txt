@@ -1,3 +1,5 @@
-1.05
+1.06
 PATCH
-• Latest Version
+• Added enhanced input mappings for the general and aircraft-specific controls. Input can now be supplied either using the default Unreal inputs, enhanced input actions, or custom values.
+• Added toggle option for the on-screen flight data display => Controller/EDITOR/Show Flight Data
+
