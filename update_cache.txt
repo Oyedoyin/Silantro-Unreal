@@ -1,5 +1,6 @@
-1.06
-PATCH
-• Added enhanced input mappings for the general and aircraft-specific controls. Input can now be supplied either using the default Unreal inputs, enhanced input actions, or custom values.
-• Added toggle option for the on-screen flight data display => Controller/EDITOR/Show Flight Data
+1.07
+PATCH 
+• Improved the stability of the setup gizmos in the blueprint editor. So configs can now be done entirely in blueprints
+• Extended the mesh functions for the surface, power and wheel components, which can now be connected to blueprint static meshes
+• Added options for disabled/fuselage-covered panels on the surfaces
 
